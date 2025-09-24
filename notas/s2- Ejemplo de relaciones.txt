@@ -1,0 +1,3 @@
+Empleado -> [Territorio] -> Región
+
+Empleado -> [Región]

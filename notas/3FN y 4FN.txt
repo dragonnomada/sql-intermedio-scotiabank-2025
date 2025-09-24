@@ -1,0 +1,29 @@
+3FN (clave primaria no transitiva)
+
+1. Se cumple la 2FN (interdependencia de los campos no existe)
+2. La clave primaria no depende de los campos (no es transitiva)
+
+4FN (sin dependencias multivaluadas)
+
+1. Se cumple la 3FN (clave primaria no transitiva)
+2. No hay dependencias multivaluadas (la combinación de columnas no se repite)
+
+ ID  A       B
+---------------
+ x   1       1
+ x   1       2
+ x   2       1
+ x   2       2
+
+ ID A
+------
+ x  1
+ x  2
+
+ ID B
+------
+ x  1
+ x  2
+
+
+
