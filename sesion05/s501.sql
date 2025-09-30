@@ -1,0 +1,1 @@
+select avg(UnitPrice) from [Order Details]

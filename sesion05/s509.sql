@@ -1,0 +1,1 @@
+select (18.0 / count(*)) * 100 from [Orders]

@@ -1,0 +1,10 @@
+Ejercicio:
+
+Agregar una consulta adicional (TD) para obtener las ordenes
+que superan a [Total MaxRel] y ordenarlas de forma descendente
+(Top 2.5% de las ordenes de mayor valor).
+
+¿Quiénes son las órdenes más valiosas y que representan
+el top del 2.5% superior?
+
+Bonus: ¿Quiénes son los clientes de esas órdenes?
