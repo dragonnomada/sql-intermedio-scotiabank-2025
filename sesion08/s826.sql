@@ -1,0 +1,1 @@
+drop index idx_correo on clientes

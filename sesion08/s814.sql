@@ -1,0 +1,1 @@
+update clientes set sexo=1 where clienteId=2 or clienteId=4

@@ -1,0 +1,2 @@
+alter table clientes
+	drop constraint UQ__clientes__C2FF245C33BA78EE

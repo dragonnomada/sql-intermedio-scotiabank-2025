@@ -1,0 +1,1 @@
+create nonclustered index idx_clienteFechaSolicitud on prestamos(clienteId, fechaSolicitud)

@@ -1,0 +1,1 @@
+delete from clientes where clienteID=1
