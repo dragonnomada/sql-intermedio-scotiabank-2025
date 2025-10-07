@@ -1,0 +1,1 @@
+drop procedure sp_AgregarPrestamo;
